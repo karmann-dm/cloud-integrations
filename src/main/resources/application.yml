@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: clouds-integration
+
+  data:
+    mongodb:
+      uri: mongodb://192.168.99.100:27017/clouds
